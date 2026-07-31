@@ -12,9 +12,9 @@ That means that it has many known issues. Given the hundreds of hours I've spent
 I used this data to generate this series of visualizations, [which are now free to use on my Tableau Public.](https://public.tableau.com/app/profile/jamie1773/viz/USCannabisRecallAnalysis/RecallsbyYearStratState#2). 
 
 The known issues are: 
-product type needs to be recorded for all 
-parse out batches for all states where available, there's something interesting there. 
-state by state recall scorecard
-Actual Full database back end. 
-ability to appropriately tie multiple reasons / full db backend really needed.
-Internet archive links for all bulletins, etc.
+* product type needs to be recorded for all
+* parse out batches for all states where available, there's something interesting there. 
+* state by state recall scorecard
+* Actual Full database back end. 
+* ability to appropriately tie multiple reasons / full db backend really needed.
+* Internet archive links for all bulletins, etc.
