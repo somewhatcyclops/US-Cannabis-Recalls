@@ -1,5 +1,5 @@
 # US-Cannabis-Recalls
-US Cannabis Recalls By State
+[Data Archive for US Cannabis Recalls By State](https://github.com/somewhatcyclops/US-Cannabis-Recalls/tree/somewhatcyclops-data)
 
 I most recently wrote about my findings in the data set [here.](https://medium.com/cannabis-explorations/cannabis-recalls-a-brief-state-by-state-analysis-af63f65eecb6)
 
