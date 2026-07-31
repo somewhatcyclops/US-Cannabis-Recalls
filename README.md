@@ -3,7 +3,7 @@
 
 I most recently wrote about my findings in the data set [here.](https://medium.com/cannabis-explorations/cannabis-recalls-a-brief-state-by-state-analysis-af63f65eecb6)
 
-But, I have long felt the weight of curating this dataset and yet not sharing it in the hopes that the work would be recognized and formalized by some organization, and it seems that was foolish and idealistic. I'm giving the work away hoping that it can be changed into something useful for consumer safety advocates, regulators, etc. 
+I have long felt the weight of curating this dataset and yet not sharing it in the hopes that the work would be recognized and formalized by some organization in conjunction with me. It seems that was foolish and idealistic. Instead, I think the best thing I could do is to give the work away, and hope that it can be changed into something useful for consumer safety advocates, regulators, etc. 
 
 This blossomed out of an exercise I did in trying to increase safety awareness around cannabis laboratory issues in 2023 in [an article](https://medium.com/cannabis-explorations/when-things-go-wrong-how-do-states-handle-recalls-b08eec9d5e2a?sk=2e7e73fc566edcbf09bc29cbe7521cca), and hilariously though I have an extensive background in data analysis and data engineering - this all bloomed out of one of those quick and dirty analysis that I used to hate in my data warehousing days. It's gnarly, a bit wild, and incomplete. 
 
