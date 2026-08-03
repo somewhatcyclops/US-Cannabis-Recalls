@@ -1,6 +1,8 @@
 # US-Cannabis-Recalls
 [Data Archive for US Cannabis Recalls By State](https://github.com/somewhatcyclops/US-Cannabis-Recalls/tree/somewhatcyclops-data)
 
+I will continue to produce this data set - I plan to update it by the 10th of each month for the prior month's activities. 
+
 I most recently wrote about my findings in the data set [here.](https://medium.com/cannabis-explorations/cannabis-recalls-a-brief-state-by-state-analysis-af63f65eecb6)
 
 I have long felt the weight of curating this dataset and yet not sharing it in the hopes that the work would be recognized and formalized by some organization in conjunction with me. It seems that was foolish and idealistic. Instead, I think the best thing I could do is to give the work away, and hope that it can be changed into something useful for consumer safety advocates, regulators, etc. 
