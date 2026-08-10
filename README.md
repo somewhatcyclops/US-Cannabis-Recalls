@@ -14,3 +14,9 @@ state by state recall scorecard
 Actual Full database back end. 
 ability to appropriately tie multiple reasons / full db backend really needed.
 Internet archive links for all bulletins, etc.
+
+## Update: 2026-08-10
+
+I've done a pretty large overhaul to Categorizations which should make little difference to grouping but a larger difference to me when I go to overhaul how the entire thing works with reasons and products and the many to one relationships they need to introduce. (I'm at the point where I can't just force Cartesians and filter them out.)
+
+I added a Dashboard. [Dashboards are cool.](https://public.tableau.com/app/profile/jamie1773/viz/20260807USCannabisRecalls/YearDashboard#2)
