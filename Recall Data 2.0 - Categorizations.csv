@@ -35,251 +35,241 @@ Spiromefesin,Pesticides,Pesticides
 "Imidacloprid, Mycobutanil and Avermectin",Pesticides,Pesticides
 Pesticides,Pesticides,Pesticides
 Pesticide Contamination (Myclobutanil),Pesticides,Pesticides
-Hair and insects,Prohibited Additives / Product,Pesticides
-Prohibited Product / Additives,Prohibited Additives / Product,Pesticides
-Prohibited Product: THCv from unapproved source,Prohibited Additives / Product,Prohibited Additives / Product
-Inaccurate Label,Inaccurate THC,Prohibited Additives / Product
-Not Properly Tracked,Not Properly Tracked,Prohibited Additives / Product
+Hair and insects,Hair and Insects,Contaminants
+Prohibited Product / Additives,Prohibited Additives / Product,Prohibited Additives / Product
+Prohibited Product: THCv from unapproved source,Unapproved Cannabinoid Source,Prohibited Additives / Product
+Inaccurate Label,Inaccurate THC,Mislabeled
+Not Properly Tracked,Not Properly Tracked,Other
 Exceeds Maximum Dosage,Inaccurate THC,Inaccurate THC
-non-compliant creation and packaging.,Packaging,Not Properly Tracked
-were not compliantly produced,Packaging,Inaccurate THC
+non-compliant creation and packaging.,Packaging,Packaging
+were not compliantly produced,NonCompliant Product,Prohibited Additives / Product
 labeling attractive to Children,Attractive Label,Packaging
-Aspergillus niger,Aspergillus,Packaging
-Piperonyl butoxide (Pesticide),Pesticides,Attractive Label
-Mold,Mold,Aspergillus
-Aspergillus ,Aspergillus,Pesticides
-"Arsenic, Yeast, and mold",Yeast and Mold,Mold
-"Arsenic, Yeast, and mold",Heavy Metal,Aspergillus
-Aspergillus,Aspergillus,Yeast and Mold
-Cadmium,Heavy Metal,Heavy Metal
-"chemical residue, microbes, metals, residual solvents, toxins from fungus",Heavy Metal,Aspergillus
-"chemical residue, microbes, metals, residual solvents, toxins from fungus",Yeast and Mold,Heavy Metal
-"chemical residue, microbes, metals, residual solvents, toxins from fungus",Aspergillus,Heavy Metal
-"chemical residue, microbes, metals, residual solvents, toxins from fungus",Mold,Yeast and Mold
-"chemical residue, microbes, metals, residual solvents, toxins from fungus",Microbial,Aspergillus
-"chemical residue, microbes, metals, residual solvents, toxins from fungus",Mycotoxins,Mold
-"chemical residue, microbes, metals, residual solvents, toxins from fungus",Solvent,Microbial
-"chemical residue, microbes, metals, residual solvents, toxins from fungus",Mislabeled,Mycotoxins
-state agency,Other,Solvent
-Cadmium,Heavy Metal,Mislabeled
-Failed Microbial Testing,Microbial,Other
-Failed Testing,Other,Heavy Metal
-flowering bodies/ mold,Mold,Microbial
-Inaccurate THC,Inaccurate THC,Other
-Inaccurate THC,Mislabeled,Mold
+Aspergillus niger,Aspergillus,Microbial Contamination
+Piperonyl butoxide (Pesticide),Pesticides,Pesticides
+Mold,Mold,Microbial Contamination
+Aspergillus ,Aspergillus,Microbial Contamination
+"Arsenic, Yeast, and mold",Total Yeast and Mold,Microbial Contamination
+"Arsenic, Yeast, and mold",Heavy Metals,Heavy Metals
+Aspergillus,Aspergillus,Microbial Contamination
+Cadmium,Heavy Metals,Heavy Metals
+"chemical residue, microbes, metals, residual solvents, toxins from fungus",Heavy Metals,Heavy Metals
+"chemical residue, microbes, metals, residual solvents, toxins from fungus",Total Yeast and Mold,Microbial Contamination
+"chemical residue, microbes, metals, residual solvents, toxins from fungus",Aspergillus,Microbial Contamination
+"chemical residue, microbes, metals, residual solvents, toxins from fungus",Mold,Microbial Contamination
+"chemical residue, microbes, metals, residual solvents, toxins from fungus",Microbial,Microbial Contamination
+"chemical residue, microbes, metals, residual solvents, toxins from fungus",Mycotoxins,Mycotoxins
+"chemical residue, microbes, metals, residual solvents, toxins from fungus",Solvent,Solvent
+state agency,Other,Other
+Cadmium,Heavy Metals,Heavy Metals
+Failed Microbial Testing,Microbial,Microbial Contamination
+Failed Testing,Failed Testing,Lab Issue
+flowering bodies/ mold,Mold,Microbial Contamination
+Inaccurate THC,Inaccurate THC,Inaccurate THC
 Incorrect THC:CBD ratio on label,Inaccurate THC,Inaccurate THC
-Incorrect THC:CBD ratio on label,Mislabeled,Mislabeled
-informational notification based on multiple reports of adverse health events,Adverse Health Events,Inaccurate THC
+informational notification based on multiple reports of adverse health events,Adverse Health Events,Adverse Health Events
 Ingredients mislabeled,Mislabeled,Mislabeled
-Issue with Lab,Lab Issue,Adverse Health Events
-Issue with Lab,Lab Issue,Mislabeled
+Issue with Lab,Lab Issue,Lab Issue
 Lab Potency Labeling Issues,Inaccurate THC,Lab Issue
-Lab Potency Labeling Issues,Mislabeled,Lab Issue
-Lab Potency Labeling Issues,Lab Issue,Inaccurate THC
-Lead,Heavy Metal,Mislabeled
-Lead Contamination,Heavy Metal,Lab Issue
-"Lead, Yeast, and mold",Heavy Metal,Heavy Metal
-"Lead, Yeast, and mold",Yeast and Mold,Heavy Metal
-"Lead, Yeast, and mold",Mold,Heavy Metal
-Mercury,Heavy Metal,Yeast and Mold
-Microbes,Microbial,Mold
-microbial contamination,Microbial,Heavy Metal
-microbial contamination,Mislabeled,Microbial
-mislabeling Cannabinoid Content (5 mg vs 10 mg),Inaccurate THC,Microbial
-mislabeling Cannabinoid Content (5 mg vs 10 mg),Mislabeled,Mislabeled
-"mold, yeast, aspergillus, salmonella and E. coli.",Yeast and Mold,Inaccurate THC
-"mold, yeast, aspergillus, salmonella and E. coli.",Aspergillus,Mislabeled
-Myclobutinyl pesticide,Pesticides,Yeast and Mold
-Mycotoxins,Mycotoxins,Aspergillus
-Not Listed,Other,Pesticides
-Pesticide Contamination,Pesticides,Mycotoxins
-pesticide Imidacloprid,Pesticides,Other
+Lab Potency Labeling Issues,Inaccurate THC,Inaccurate THC
+Lead,Lead,Heavy Metals
+Lead Contamination,Lead,Heavy Metals
+"Lead, Yeast, and mold",Lead,Heavy Metals
+"Lead, Yeast, and mold",Total Yeast and Mold,Microbial Contamination
+Mercury,Mercury,Heavy Metals
+Microbes,Microbial,Microbial Contamination
+microbial contamination,Microbial,Microbial Contamination
+mislabeling Cannabinoid Content (5 mg vs 10 mg),Inaccurate THC,Inaccurate THC
+"mold, yeast, aspergillus, salmonella and E. coli.",Total Yeast and Mold,Microbial Contamination
+"mold, yeast, aspergillus, salmonella and E. coli.",Aspergillus,Microbial Contamination
+"mold, yeast, aspergillus, salmonella and E. coli.",Salmonella,Microbial Contamination
+"mold, yeast, aspergillus, salmonella and E. coli.",E. coli,Microbial Contamination
+Myclobutinyl pesticide,Pesticides,Pesticides
+Mycotoxins,Mycotoxins,Mycotoxins
+Not Listed,Other,Other
+Pesticide Contamination,Pesticides,Pesticides
+pesticide Imidacloprid,Pesticides,Pesticides
 pesticide residues,Pesticides,Pesticides
 possible Aspergillus contamination,Aspergillus,Pesticides
-possible Salmonella or Aspergillus Contamination,Aspergillus,Pesticides
-possible Salmonella or Aspergillus Contamination,Salmonella,Aspergillus
-potential packaging defect.,Packaging,Aspergillus
-potentially inaccurate THC labeling by lab ,Inaccurate THC,Salmonella
-potentially inaccurate THC labeling by lab ,Mislabeled,Packaging
-potentially inaccurate THC labeling by lab ,Lab Issue,Inaccurate THC
-Pressure Buildup,Packaging,Mislabeled
-products that failed testing made it to shelves,Other,Lab Issue
-Prohibited Additive,Prohibited Additives / Product,Packaging
-Prohibited Additives,Prohibited Additives / Product,Other
+possible Salmonella or Aspergillus Contamination,Aspergillus,Microbial Contamination
+possible Salmonella or Aspergillus Contamination,Salmonella,Microbial Contamination
+potential packaging defect.,Packaging,Packaging
+potentially inaccurate THC labeling by lab ,Inaccurate THC,Inaccurate THC
+potentially inaccurate THC labeling by lab ,Lab Issue,Lab Issue
+Pressure Buildup,Packaging,Packaging
+products that failed testing made it to shelves,Failed Testing,Lab Issue
+Prohibited Additive,Prohibited Additives / Product,Prohibited Additives / Product
+Prohibited Additives,Prohibited Additives / Product,Prohibited Additives / Product
 Prohibited Product,Prohibited Additives / Product,Prohibited Additives / Product
-residual Ethanol,Solvent,Prohibited Additives / Product
-Saliva Contamination,Other,Prohibited Additives / Product
-THC overstated via dry weight / wet weight,Inaccurate THC,Solvent
-THC overstated via dry weight / wet weight,Mislabeled,Other
-THC overstated via dry weight / wet weight,Lab Issue,Inaccurate THC
-unable to verify testing,Untested,Mislabeled
-"Unapproved pesticide, Ethephon.",Pesticides,Lab Issue
-Unapproved Testing and Sampling,Untested,Untested
-Unapproved Testing and Sampling,Lab Issue,Pesticides
-unregistered and unlicensed THC concentrates,Prohibited Additives / Product,Untested
+residual Ethanol,Solvent,Solvent
+Saliva Contamination,Other,Contaminants
+THC overstated via dry weight / wet weight,Inaccurate THC,Inaccurate THC
+THC overstated via dry weight / wet weight,Inaccurate THC,Lab Issue
+unable to verify testing,Untested,Lab Issue
+"Unapproved pesticide, Ethephon.",Pesticides,Pesticides
+Unapproved Testing and Sampling,Untested,Lab Issue
+Unapproved Testing and Sampling,Lab Issue,Lab Issue
+unregistered and unlicensed THC concentrates,Unapproved Cannabinoid Source,Prohibited Additives / Product
 Unreliable test results,Lab Issue,Lab Issue
-Unreliable test results,Lab Issue,Prohibited Additives / Product
 Untested,Untested,Lab Issue
-untested and contaminated,Mold,Lab Issue
-untested and contaminated,Untested,Untested
-"Untested, yeast and mold",Yeast and Mold,Mold
-"Untested, yeast and mold",Mold,Untested
-"Untested; Mold, Yeast, Aspergillus",Yeast and Mold,Yeast and Mold
-"Untested; Mold, Yeast, Aspergillus",Aspergillus,Mold
-Vaping Lung: Death,Other,Yeast and Mold
-yeast and mold,Yeast and Mold,Aspergillus
-yeast and mold and Aspergillus,Yeast and Mold,Other
-yeast and mold and Aspergillus,Aspergillus,Yeast and Mold
-Over-pressurization,Packaging,Yeast and Mold
-Total Yeast and Mold,Mold,Aspergillus
-Possible Adverse effects due to Corydalis rhizome,Adverse Health Events,Packaging
-Total Yeast and Mold or Aspergillus,Yeast and Mold,Mold
-Total Yeast and Mold or Aspergillus,Aspergillus,Adverse Health Events
-Non-Compliant Packaging,Packaging,Yeast and Mold
-Pesticide,Pesticides,Aspergillus
-Mold ,Mold,Packaging
-Not Properly Tested,Untested,Pesticides
-Arsenic,Heavy Metal,Mold
-Mercury,Heavy Metal,Untested
-incorrect Packaging (not childproof),Packaging,Heavy Metal
-Presence of Delta-8,Other,Heavy Metal
-Physical Contamination,Other,Packaging
-Outdated warning on labe,Mislabeled,Other
-Total Yeast and Mold and Aspergillus,Aspergillus,Other
-Total Yeast and Mold and Aspergillus,Yeast and Mold,Mislabeled
-Total Yeast and Mold and Aspergillus,Mold,Aspergillus
-Too much THC,Prohibited Additives / Product,Yeast and Mold
-presence of banned chemical residue ,Other,Mold
-"Mercury, Cadmium, Mold",Mercury,Prohibited Additives / Product
-"Mercury, Cadmium, Mold",Cadmium,Other
-"Mercury, Cadmium, Mold",Mold,Mercury
-Myclobutanil,Pesticides,Cadmium
-exceed allowable THC concentration limits,Inaccurate THC,Mold
+untested and contaminated,Mold,Microbial Contamination
+untested and contaminated,Untested,Lab Issue
+"Untested, yeast and mold",Total Yeast and Mold,Microbial Contamination
+"Untested; Mold, Yeast, Aspergillus",Total Yeast and Mold,Microbial Contamination
+"Untested; Mold, Yeast, Aspergillus",Aspergillus,Microbial Contamination
+Vaping Lung: Death,Adverse Health Events,Adverse Health Events
+yeast and mold,Total Yeast and Mold,Microbial Contamination
+yeast and mold and Aspergillus,Total Yeast and Mold,Microbial Contamination
+yeast and mold and Aspergillus,Aspergillus,Microbial Contamination
+Over-pressurization,Packaging,Packaging
+Total Yeast and Mold,Total Yeast and Mold,Microbial Contamination
+Possible Adverse effects due to Corydalis rhizome,Adverse Health Events,Adverse Health Events
+Total Yeast and Mold or Aspergillus,Total Yeast and Mold,Microbial Contamination
+Total Yeast and Mold or Aspergillus,Aspergillus,Microbial Contamination
+Non-Compliant Packaging,Packaging,Packaging
+Pesticide,Pesticides,Pesticides
+Mold ,Total Yeast and Mold,Microbial Contamination
+Not Properly Tested,Untested,Lab Issue
+Arsenic,Arsenic,Heavy Metals
+Mercury,Mercury,Heavy Metals
+incorrect Packaging (not childproof),Packaging,Packaging
+Presence of Delta-8,Unapproved Cannabinoid Source,Prohibited Additives / Product
+Physical Contamination,Physical Contanimation,Contaminants
+Outdated warning on labe,Mislabeled,Mislabeled
+Total Yeast and Mold and Aspergillus,Aspergillus,Microbial Contamination
+Total Yeast and Mold and Aspergillus,Total Yeast and Mold,Microbial Contamination
+Total Yeast and Mold and Aspergillus,Total Yeast and Mold,Microbial Contamination
+Too much THC,Unapproved Dosage,Prohibited Additives / Product
+presence of banned chemical residue ,Chemical Resiue,Contaminants
+"Mercury, Cadmium, Mold",Mercury,Heavy Metals
+"Mercury, Cadmium, Mold",Cadmium,Heavy Metals
+"Mercury, Cadmium, Mold",Mold,Microbial Contamination
+Myclobutanil,Pesticides,Pesticides
+exceed allowable THC concentration limits,Inaccurate THC,Inaccurate THC
 "failed testing for the Category I pesticide, chlorfenapyr ",Pesticides,Pesticides
-Pesticides: Spiromesifen,Pesticides,Inaccurate THC
-presence of Aspergillus flavus.,Aspergillus,Pesticides
-presence of Aspergillus sp.,Aspergillus,Pesticides
-obstruction of the informational label ,Mislabeled,Aspergillus
-presence of Aspergillus fumigatus,Aspergillus,Aspergillus
+Pesticides: Spiromesifen,Pesticides,Pesticides
+presence of Aspergillus flavus.,Aspergillus,Microbial Contamination
+presence of Aspergillus sp.,Aspergillus,Microbial Contamination
+obstruction of the informational label ,Mislabeled,Mislabeled
+presence of Aspergillus fumigatus,Aspergillus,Microbial Contamination
 presence of Aspergillus niger,Aspergillus,Mislabeled
-presence of Aspergillus terreus,Aspergillus,Aspergillus
-inaccurate THC content labeling,Inaccurate THC,Aspergillus
-"presence of Aspergillus niger and Aspergillus flavus, and due to inaccurate labeling, that reports more THC than the product contains. ","Multiple (Aspergillus, THC Inflation)",Aspergillus
-"potential presence of Aspergillus flavus, and due to inaccurate labeling that reports more THC ","Multiple (Aspergillus, THC Inflation)",Inaccurate THC
-inaccurate labeling that reports more cannabinoid content,Inaccurate THC,Multiple
+presence of Aspergillus terreus,Aspergillus,Microbial Contamination
+inaccurate THC content labeling,Inaccurate THC,Inaccurate THC
+"presence of Aspergillus niger and Aspergillus flavus, and due to inaccurate labeling, that reports more THC than the product contains. ","Multiple (Aspergillus, THC Inflation)",Multiple
+"potential presence of Aspergillus flavus, and due to inaccurate labeling that reports more THC ","Multiple (Aspergillus, THC Inflation)",Mislabeled
+inaccurate labeling that reports more cannabinoid content,Inaccurate THC,Inaccurate THC
  presence of Aspergillus spp. and due to inaccurate labeling that reports more cannabinoid content than the product contains.,"Multiple (Aspergillus, THC Inflation)",Multiple
 "inaccurate labeling, that reports more cannabinoid content",Inaccurate THC,Inaccurate THC
 "Aspergillus fumigatus, and due to inaccurate labeling","Multiple (Aspergillus, THC Inflation)",Multiple
-packaging safety issues,Packaging,Inaccurate THC
+packaging safety issues,Packaging,Packaging
 "presence of Aspergillus niger, and due to inaccurate labeling","Multiple (Aspergillus, THC Inflation)",Multiple
 presence of the pesticide chlorfenapyr,Pesticides,Packaging
-Aspergillus sp.,Aspergillus,Multiple
-Salmonella,Salmonella,Pesticides
-Adulterated: Microbial Contamination (Aspergillus niger),Aspergillus,Aspergillus
-Adulterated: Microbial Contamination (Aspergillus flavus),Aspergillus,Salmonella
-Adulterated: Pesticide Category I Contamination (Chlorfenapyr),Pesticides,Aspergillus
-Misbranded: Other,Attractive Label,Aspergillus
+Aspergillus sp.,Aspergillus,Microbial Contamination
+Salmonella,Salmonella,Microbial Contamination
+Adulterated: Microbial Contamination (Aspergillus niger),Aspergillus,Microbial Contamination
+Adulterated: Microbial Contamination (Aspergillus flavus),Aspergillus,Microbial Contamination
+Adulterated: Pesticide Category I Contamination (Chlorfenapyr),Pesticides,Pesticides
+Misbranded: Other,Attractive Label,Packaging
 Adulterated: Pesticide Category I Contamination (Paclobutrazol),Pesticides,Pesticides
-Adulterated and Misbranded: Pesticide Category I Contamination (Chlorfenapyr); Inaccurate Labeling (Cannabinoid inflation),Pesticides,Attractive Label
-Adulterated and Misbranded: Pesticide Category I Contamination (Chlorfenapyr); Inaccurate Labeling (Cannabinoid inflation),"Multiple (Pesticides, THC Inflation)",Pesticides
-Adulterated: Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus terreus),Aspergillus,Pesticides
+Adulterated and Misbranded: Pesticide Category I Contamination (Chlorfenapyr); Inaccurate Labeling (Cannabinoid inflation),Pesticides,Pesticides
+Adulterated and Misbranded: Pesticide Category I Contamination (Chlorfenapyr); Inaccurate Labeling (Cannabinoid inflation),"Multiple (Pesticides, THC Inflation)",Multiple
+Adulterated: Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus terreus),Aspergillus,Microbial Contamination
 Adulterated and Misbranded: Microbial Contamination (Aspergillus niger); Inaccurate Labeling (Cannabinoid inflation),"Multiple (Aspergillus, THC Inflation)",Multiple
-Potentially Adulterated: Pesticide Category I Contamination and/or Pesticide Category II Contamination,Pesticides,Aspergillus
-Potentially Adulterated and Misbranded: Prohibited Product,Prohibited Additives / Product,Multiple
-Potentially Adulterated and Misbranded: Other,Adulterated / Misbranded,Pesticides
-Adulterated: Heavy Metal Contamination (Arsenic),Heavy Metal,Prohibited Additives / Product
-Potentially Adulterated: Pesticide Category I Contamination,Pesticides,Adulterated / Misbranded
-Adulterated: Prohibited Product,Prohibited Additives / Product,Heavy Metal
+Potentially Adulterated: Pesticide Category I Contamination and/or Pesticide Category II Contamination,Pesticides,Pesticides
+Potentially Adulterated and Misbranded: Prohibited Product,Prohibited Additives / Product,Prohibited Additives / Product
+Potentially Adulterated and Misbranded: Other,Adulterated / Misbranded,Mislabeled
+Adulterated: Heavy Metal Contamination (Arsenic),Arsenic,Heavy Metals
+Potentially Adulterated: Pesticide Category I Contamination,Pesticides,Pesticides
+Adulterated: Prohibited Product,Prohibited Additives / Product,Prohibited Additives / Product
 Potentially Adulterated: Pesticide Category II Contamination,Pesticides,Pesticides
-Adulterated and Misbranded: Microbial Contamination (Aspergillus spp.); Inaccurate Labeling (Cannabinoid inflation),"Multiple (Aspergillus, THC Inflation)",Prohibited Additives / Product
-Potentially Adulterated: Solvent Category I Contamination (Methylene chloride),Solvent,Pesticides
+Adulterated and Misbranded: Microbial Contamination (Aspergillus spp.); Inaccurate Labeling (Cannabinoid inflation),"Multiple (Aspergillus, THC Inflation)",Multiple
+Potentially Adulterated: Solvent Category I Contamination (Methylene chloride),Solvent,Solvent
 Adulterated and Misbranded: Inaccurate Labeling (Cannabinoid inflation); Microbial Contamination (Aspergillus spp.),"Multiple (Aspergillus, THC inflation)",Multiple
-Invalid Batch Testing; Exceeds Concentration limit,"Multiple (Invalid Testing, Prohibited Product)",Solvent
-Adulterated: Microbial Contamination (Aspergillus spp.),Aspergillus,Multiple
-Potentially Misbranded: Other (Invalid Batch Testing),Invalid Testing,Multiple
-Potentially Adulterated and Misbranded: Other (label / gmp),"Multiple: Inaccurate Ingredient Label, Lacking GMP",Aspergillus
-Adulterated: Other (Incomplete Testing),Invalid Testing,Invalid Testing
+Invalid Batch Testing; Exceeds Concentration limit,"Multiple (Invalid Testing, Prohibited Product)",Lab Issue
+Adulterated: Microbial Contamination (Aspergillus spp.),Aspergillus,Microbial Contamination
+Potentially Misbranded: Other (Invalid Batch Testing),Invalid Testing,Lab Issue
+Potentially Adulterated and Misbranded: Other (label / gmp),"Multiple: Inaccurate Ingredient Label, Lacking GMP",Mislabeled
+Adulterated: Other (Incomplete Testing),Invalid Testing,Lab Issue
 Adulterated: Microbial Contamination (Aspergillus spp.); Inaccurate Labeling (Cannabinoid inflation),"Multiple (Aspergillus, THC Inflation)",Multiple
-Adulterated: Microbial Contamination (Aspergillus fumigatus); Microbial Contamination (Aspergillus terreus),Aspergillus,Invalid Testing
+Adulterated: Microbial Contamination (Aspergillus fumigatus); Microbial Contamination (Aspergillus terreus),Aspergillus,Microbial Contamination
 Adulterated: Microbial Contamination (Aspergillus flavus); Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus terreus),Aspergillus,Multiple
-Adulterated: Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus flavus); Microbial Contamination (Aspergillus terreus),Aspergillus,Aspergillus
-Adulterated: Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus fumigatus); Microbial Contamination (Aspergillus flavus); Microbial Contamination (Aspergillus terreus),Aspergillus,Aspergillus
-Adulterated and Misbranded: misrepresentative testing,Invalid Testing,Aspergillus
-Adulterated and Misbranded: Microbial Contamination (Aspergillus terreus); Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus flavus); Inaccurate Labeling (Cannabinoid inflation),"Multiple: Inaccurate Ingredient Label, Lacking GMP",Aspergillus
-Adulterated and Misbranded: Other Inn,Inacurate Ingredient Label,Invalid Testing
+Adulterated: Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus flavus); Microbial Contamination (Aspergillus terreus),Aspergillus,Microbial Contamination
+Adulterated: Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus fumigatus); Microbial Contamination (Aspergillus flavus); Microbial Contamination (Aspergillus terreus),Aspergillus,Microbial Contamination
+Adulterated and Misbranded: misrepresentative testing,Invalid Testing,Lab Issue
+Adulterated and Misbranded: Microbial Contamination (Aspergillus terreus); Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus flavus); Inaccurate Labeling (Cannabinoid inflation),"Multiple: Inaccurate Ingredient Label, Lacking GMP",Multiple
+Adulterated and Misbranded: Other Inn,Inacurate Ingredient Label,Mislabeled
 Adulterated: Prohibited Product; Other,"Multiple: Inaccurate Product Type, Lacking GMP, Exceeds THC, Acidified Beverage",Multiple
 Adulterated and Misbranded: Other; Inaccurate Labeling (Cannabinoid inflation),"Multiple: Attractive to Children, THC Inflation",Multiple
-Adulterated and Misbranded: Other,"Multiple: Invalid Testing, Attractive Labeling",Multiple
+Adulterated and Misbranded: Other,"Multiple: Invalid Testing, Attractive Labeling",Mislabeled
 Adulterated and Misbranded: Other misleading,"Multiple: Invalid Testing, Misleading Label",Multiple
-Adulterated: Microbial Contamination (Aspergillus flavus); Microbial Contamination (Aspergillus niger),Aspergillus,Multiple
-Adulterated: Microbial Contamination (Aspergillus fumigatus),Aspergillus,Multiple
-Adulterated: Microbial Contamination (Aspergillus fumigatus); Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus flavus),Aspergillus,Aspergillus
-Inaccurate Ingredient Label,Inaccurate Ingredient Label,Aspergillus
-Adulterated: Other,Prohibited Additives / Product,Aspergillus
-Adulterated and Misbranded: Prohibited Product,Prohibited Additives / Product,Inaccurate Ingredient Label
-Adulterated: Pesticide Category I Contamination (Daminozide),Pesticides,Prohibited Additives / Product
-"Inaccurate Ingredient Label, Unverifiable GMP","Multiple: inaccurate Ingredient Label, Unverifiable GMP",Prohibited Additives / Product
-Distributor Without License; No Surveillance of Sampling,Multiple: Distributor Without License; No Surveillance of Sampling,Pesticides
-No GMP,No GMP,Multiple
-Distributor Without License,Distributor Without License,Multiple
-Multiple: Pesticides / Aspergillus,Multiple: Pesticides / Aspergillus,No GMP
-Discrepancy between inner and outer label,Inaccurate Potency,Distributor Without License
+Adulterated: Microbial Contamination (Aspergillus flavus); Microbial Contamination (Aspergillus niger),Aspergillus,Microbial Contamination
+Adulterated: Microbial Contamination (Aspergillus fumigatus),Aspergillus,Microbial Contamination
+Adulterated: Microbial Contamination (Aspergillus fumigatus); Microbial Contamination (Aspergillus niger); Microbial Contamination (Aspergillus flavus),Multiple ,Microbial Contamination
+Inaccurate Ingredient Label,Inaccurate Ingredient Label,Mislabeled
+Adulterated: Other,Prohibited Additives / Product,Prohibited Additives / Product
+Adulterated and Misbranded: Prohibited Product,Prohibited Additives / Product,Prohibited Additives / Product
+Adulterated: Pesticide Category I Contamination (Daminozide),Pesticides,Pesticides
+"Inaccurate Ingredient Label, Unverifiable GMP","Multiple: inaccurate Ingredient Label, Unverifiable GMP",Multiple
+Distributor Without License; No Surveillance of Sampling,Multiple: Distributor Without License; No Surveillance of Sampling,Multiple
+No GMP,No GMP,Other
+Distributor Without License,Distributor Without License,Other
+Multiple: Pesticides / Aspergillus,Multiple: Pesticides / Aspergillus,Multiple
+Discrepancy between inner and outer label,Inaccurate THC,Inaccurate THC
 Total Yeast and Mold and Aspergillus.,"Multiple: Yeast and Mold, Aspergillus",Multiple
-Total Yeast and Mold exceeds limits,Total Yeast and Mold,Inaccurate Potency
+Total Yeast and Mold exceeds limits,Total Yeast and Mold,Microbial Contamination
 Total Yeast and Mold and Moisture Content,"Multiple: Total Yeast and Mold, Moisture Content",Multiple
-Chlorfenapyr,Pesticides,Total Yeast and Mold
-Chlorfenapyr.,Pesticides,Multiple
+Chlorfenapyr,Pesticides,Pesticides
+Chlorfenapyr.,Pesticides,Pesticides
 "Bifenazate, Fluopyram, and Myclobutanil.",Pesticides,Pesticides
-"Total Yeast and Mold, Arsenic, Cadmium, Lead","Multiple: Total Yeast and Mold, Heavy Metals",Pesticides
-elemental impurities.,Heavy Metal,Pesticides
+"Total Yeast and Mold, Arsenic, Cadmium, Lead","Multiple: Total Yeast and Mold, Heavy Metals",Multiple
+elemental impurities.,Heavy Metals,Heavy Metals
 "Total Yeast and Mold, elemental impurities","Multiple: Total Yeast and Mold, Heavy Metals",Multiple
-Chlorfenapyr and Fluopyram.,Pesticides,Heavy Metal
-chlorfenapyr and paclobutrazol.,Pesticides,Multiple
+Chlorfenapyr and Fluopyram.,Pesticides,Pesticides
+chlorfenapyr and paclobutrazol.,Pesticides,Pesticides
 myclobutanil.,Pesticides,Pesticides
 "hexythiazox, fluopyram, bifenazate",Pesticides,Pesticides
-Total Yeast and Mold.,Total Yeast and Mold,Pesticides
-"Total Yeast and Mold, cadmium","Multiple: Total Yeast and Mold, Cadmium",Pesticides
- yeast and mold ,Total Yeast and Mold,Total Yeast and Mold
+Total Yeast and Mold.,Total Yeast and Mold,Microbial Contamination
+"Total Yeast and Mold, cadmium","Multiple: Total Yeast and Mold, Cadmium",Multiple
+ yeast and mold ,Total Yeast and Mold,Microbial Contamination
 Microbials (aerobic bacteria and Enterobacteriaceae) and Yeast and Mold,Multiple - Microbials and Yeast and Mold,Multiple
-Reason Not Given,Reason Not Given,Total Yeast and Mold
+Reason Not Given,Reason Not Given,Reason Not Given
 "Yeast and Mold, Microbials, Arsenic","Multiple- Yeast and Mold, Microbials, Heavy Metal",Multiple
-Bifenthrin.,Pesticides,Reason Not Given
-Bifenthrin and other pesticides,Pesticides,Multiple
-Total Yeast and Mold,Total Yeast and Mold,Pesticides
-total coliforms.,Coliforms,Pesticides
-Invalid Sampling,Invalid Testing,Total Yeast and Mold
-MCT Oil,Prohibited Additives / Product,Coliforms
- contains a banned chemical ,Prohibited Additives / Product,Invalid Testing
+Bifenthrin.,Pesticides,Pesticides
+Bifenthrin and other pesticides,Pesticides,Pesticides
+Total Yeast and Mold,Total Yeast and Mold,Microbial Contamination
+total coliforms.,Coliforms,Microbial Contamination
+Invalid Sampling,Invalid Testing (Sampling),Lab Issue
+MCT Oil,Prohibited Additives / Product,Prohibited Additives / Product
+ contains a banned chemical ,Prohibited Additives / Product,Prohibited Additives / Product
 Above THC,Over THC Threshhold,Prohibited Additives / Product
 Use of unregulated cannabis,Prohibited Additives / Product,Prohibited Additives / Product
-Invalid Testing,Invalid Testing,Over THC Threshhold
+Invalid Testing,Invalid Testing,Lab Issue
 Inaccurate Ingredient Label,Inaccurate Ingredient Label,Prohibited Additives / Product
-Presence of a Contaminant,Unspecified Contaminant,Invalid Testing
-Not Tested,Not Tested,Inaccurate Ingredient Label
-Unapproved Cannabinoid Source,Prohibited Additives / Product,Unspecified Contaminant
-Conserve SC,Pesticides,Not Tested
-Invalid Testing; Contaminated with Aspergillus or Mold,"Multiple: invalid testing, aspergillus, mold",Prohibited Additives / Product
+Presence of a Contaminant,Unspecified Contaminant,Lab Issue
+Not Tested,Not Tested,Lab Issue
+Unapproved Cannabinoid Source,Prohibited Additives / Product,Prohibited Additives / Product
+Conserve SC,Pesticides,Pesticides
+Invalid Testing; Contaminated with Aspergillus or Mold,"Multiple: invalid testing, aspergillus, mold",Multiple
 Eagle 20,Pesticides,Pesticides
-"Foreign matter, like insects, in product",Contaminants,Multiple
-THC content above legal limit,Over THC Threshhold,Pesticides
-pesticide Spinosyn,Pesticides,Contaminants
-pyrethrins,Pesticides,Over THC Threshhold
+"Foreign matter, like insects, in product",Contaminants,Contaminants
+THC content above legal limit,Over THC Threshhold,Prohibited Additives / Product
+pesticide Spinosyn,Pesticides,Pesticides
+pyrethrins,Pesticides,Pesticides
 "Unspecified Pesticides, Product not from Approved Producer","Multiple: Unspecified Pesticides, Product not from Approved Producer",Pesticides
 "Not appropriately tested, Pesticides","Multiple: not appropriately tested, pesticdes",Pesticides
-Does not include universal symbol,Labeling Issue,Multiple
+Does not include universal symbol,Labeling Issue,Mislabeled
 "Multiple: Attractive to Children, Inaccurate Ingredient Label","Multiple: Attractive to Children, Inaccurate Ingredient Label",Multiple
-Not Childproof Packaging,Packaging,Labeling Issue
+Not Childproof Packaging,Packaging,Packaging
 Mold and Spoilage,Multiple: Spoilage and Mold,Multiple
-spiromesifen and permethrin,Pesticides,Packaging
+spiromesifen and permethrin,Pesticides,Pesticides
 "Cadmium, Arsenic",Heavy Metals,Heavy Metals
-Improper Testing Methods,Invalid Testing,Pesticides
-Failed Pesticide Testing,Pesticides,Heavy Metals
-failed harvest batch testing for microbials,Microbial,Invalid Testing
-QA Recall by Vendor,QA Recall by Vendor,Pesticides
-"Aspergillus, Cadmium, Mercury","Aspergillus, Heavy Metal",Microbial
-Withdraw of products not safe for inhalation,Prohibited Additives / Product,QA Recall by Vendor
-pesticides above action level,Pesticides,"Aspergillus, Heavy Metal"
-O-phenylphenol ,Pesticides,Prohibited Additives / Product
+Improper Testing Methods,Invalid Testing,Lab Issue
+Failed Pesticide Testing,Pesticides,Pesticides
+failed harvest batch testing for microbials,Microbial,Microbial Contamination
+QA Recall by Vendor,QA Recall by Vendor,Other
+"Aspergillus, Cadmium, Mercury","Multiple: Aspergillus, Heavy Metal",Multiple
+Withdraw of products not safe for inhalation,Prohibited Additives / Product,Prohibited Additives / Product
+pesticides above action level,Pesticides,Pesticides
+O-phenylphenol ,Pesticides,Pesticides
 High Level of concern for pesticides/residual solvents. ,Multiple: Pesticides / Solvents,Pesticides
 Dichlenobil,Pesticides,Pesticides
 "Diphenylamine (DPA),O-phenylphenol (OPP),",Pesticides,Multiple
@@ -287,3 +277,25 @@ Above pesticide action levels.,Pesticides,Pesticides
 "Aspergillus, Lead",Aspergillus,Multiple
 "Aspergillus, Lead",Lead,Multiple
 Spinosad,Pesticides,Pesticides
+Failed Testing for Aspergillus reported as passing,"Multiple: Aspergillus, Lab Issue",Multiple
+Distillate from an Unknown and Unidentifiable Source ( Adulterated and Misbranded: Other) ,Untracable Source,Multiple
+the inner packaging is missing required labeling.,Mislabeled,Mislabeled
+contains the synthetic cannabinoids THC-O and THCP.,Prohibited Additives / Product,Prohibited Additives / Product
+failure to list allergens on the ingredients list.,Allergens,Mislabeled
+presence of Aspergillus terreus.,Aspergillus,Microbial Contamination
+incomplete and incorrect regulatory compliance testing.,Incomplete Testing,Lab Issue
+false and misleading health-related claims.,Mislabeled,Mislabeled
+ Pesticide Category II Contamination (Pyrethrins). ,Pesticides,Pesticides
+packaging and labeling that is attractive to children.,Attractive Label,Packaging
+Non-bontanically Derived Compounds,Prohibited Additives / Product,Prohibited Additives / Product
+Piperonyl Butoxide and Total Yeast and Mold,Pesticides,Pesticides
+Piperonyl Butoxide and Total Yeast and Mold,Total Yeast and Mold,Microbial Contamination
+So many pesticides,Pesticides,Pesticides
+Potential packaging and structural compromise,Packaging,Packaging
+non-compliant and inaccurate labeling.,Inaccurate THC,Inaccurate THC
+Food Allergens (Soy),Allergens,Mislabeled
+o pesticide content above allowable thresholds,Pesticides,Pesticides
+mandatory recall for medical marijuana products tested by Greenleaf Labs LLC,Incomplete Testing,Lab Issue
+Inaccurate THC on label,Inaccurate THC,Inaccurate THC
+Spinosad ,Pesticides,Pesticides
+not tested in accordance with the requirements,Incomplete Testing,Lab Issue
