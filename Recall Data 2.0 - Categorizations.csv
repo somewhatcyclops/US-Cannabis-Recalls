@@ -37,7 +37,7 @@ Pesticides,Pesticides,Pesticides
 Pesticide Contamination (Myclobutanil),Pesticides,Pesticides
 Hair and insects,Hair and Insects,Contaminants
 Prohibited Product / Additives,Prohibited Additives / Product,Prohibited Additives / Product
-Prohibited Product: THCv from unapproved source,Unapproved Cannabinoid Source,Prohibited Additives / Product
+Prohibited Product: THCv from unapproved source,Synthetic Cannabinoids,Prohibited Additives / Product
 Inaccurate Label,Inaccurate THC,Mislabeled
 Not Properly Tracked,Not Properly Tracked,Other
 Exceeds Maximum Dosage,Inaccurate THC,Inaccurate THC
@@ -108,7 +108,7 @@ unable to verify testing,Untested,Lab Issue
 "Unapproved pesticide, Ethephon.",Pesticides,Pesticides
 Unapproved Testing and Sampling,Untested,Lab Issue
 Unapproved Testing and Sampling,Lab Issue,Lab Issue
-unregistered and unlicensed THC concentrates,Unapproved Cannabinoid Source,Prohibited Additives / Product
+unregistered and unlicensed THC concentrates,Diverted Product,Prohibited Additives / Product
 Unreliable test results,Lab Issue,Lab Issue
 Untested,Untested,Lab Issue
 untested and contaminated,Mold,Microbial Contamination
@@ -132,7 +132,7 @@ Not Properly Tested,Untested,Lab Issue
 Arsenic,Arsenic,Heavy Metals
 Mercury,Mercury,Heavy Metals
 incorrect Packaging (not childproof),Packaging,Packaging
-Presence of Delta-8,Unapproved Cannabinoid Source,Prohibited Additives / Product
+Presence of Delta-8,Synthetic Cannabinoids,Prohibited Additives / Product
 Physical Contamination,Physical Contanimation,Contaminants
 Outdated warning on labe,Mislabeled,Mislabeled
 Total Yeast and Mold and Aspergillus,Aspergillus,Microbial Contamination
@@ -241,7 +241,7 @@ Invalid Sampling,Invalid Testing (Sampling),Lab Issue
 MCT Oil,Prohibited Additives / Product,Prohibited Additives / Product
  contains a banned chemical ,Prohibited Additives / Product,Prohibited Additives / Product
 Above THC,Over THC Threshhold,Prohibited Additives / Product
-Use of unregulated cannabis,Prohibited Additives / Product,Prohibited Additives / Product
+Use of unregulated cannabis,Diverted Product,Prohibited Additives / Product
 Invalid Testing,Invalid Testing,Lab Issue
 Inaccurate Ingredient Label,Inaccurate Ingredient Label,Prohibited Additives / Product
 Presence of a Contaminant,Unspecified Contaminant,Lab Issue
@@ -280,7 +280,7 @@ Spinosad,Pesticides,Pesticides
 Failed Testing for Aspergillus reported as passing,"Multiple: Aspergillus, Lab Issue",Multiple
 Distillate from an Unknown and Unidentifiable Source ( Adulterated and Misbranded: Other) ,Untracable Source,Multiple
 the inner packaging is missing required labeling.,Mislabeled,Mislabeled
-contains the synthetic cannabinoids THC-O and THCP.,Prohibited Additives / Product,Prohibited Additives / Product
+contains the synthetic cannabinoids THC-O and THCP.,Synthetic Cannabinoids,Prohibited Additives / Product
 failure to list allergens on the ingredients list.,Allergens,Mislabeled
 presence of Aspergillus terreus.,Aspergillus,Microbial Contamination
 incomplete and incorrect regulatory compliance testing.,Incomplete Testing,Lab Issue
@@ -299,3 +299,15 @@ mandatory recall for medical marijuana products tested by Greenleaf Labs LLC,Inc
 Inaccurate THC on label,Inaccurate THC,Inaccurate THC
 Spinosad ,Pesticides,Pesticides
 not tested in accordance with the requirements,Incomplete Testing,Lab Issue
+"some of the cannabis used to make these cannabis goods was sourced from a third party cultivator who produced cannabis under unsanitary conditions and the methods, facilities, or controls used to cultivate the cannabis did not conform with pesticide statutes and regulations.",Prohibited Product in Supply Chain,Prohibited Additives / Product
+"some of the cannabis used to make these cannabis goods was sourced from a third-party cultivator who produced cannabis under unsanitary conditions and the methods, facilities, or controls used to cultivate the cannabis did not conform with pesticide statutes and regulations.",Prohibited Product in Supply Chain,Prohibited Additives / Product
+the presence of Aspergillus niger and Aspergillus terreus.,Aspergillus,Aspergillus
+Butane above the acceptable limit,Solvent,Solvent
+Butane,Solvent,Solvent
+Diverted Product,Diverted Product,Prohibited Additives / Product
+unsafe levels of yeast and mold.,Total Yeast and Mold,Microbial Contamination
+product contains a banned chemical,Unspecified Contaminant,Contaminants
+Contains more THC than allowed,Over THC Threshhold,Prohibited Additives / Product
+Caffeine not allowable in sublingual product,Prohibited Additive,Prohibited Additives / Product
+Synthetic Derivation of Cannabinoids,Synthetic Cannabinoids,Prohibited Additives / Product
+containing mold in excess of the allowable threshold,Total Yeast and Mold,Microbial Contamination
