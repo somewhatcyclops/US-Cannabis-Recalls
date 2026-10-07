@@ -12,7 +12,9 @@ I have used this data to generate this series of visualizations, [which are now 
 The known issues are: 
 * product type needs to be recorded for all
 * parse out batches for all states where available, there's something interesting there. 
-* state by state recall scorecard
-* Actual Full database back end. 
+* state by state recall scorecard (completed)
+* Actual Full database back end needs to be built out. 
 * ability to appropriately tie multiple reasons / full db backend really needed.
 * Internet archive links for all bulletins, etc.
+* FOIA missing documents (if any remain)
+* Add in sales data by month to assist cross-state comparison
